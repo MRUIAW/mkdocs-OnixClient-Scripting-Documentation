@@ -1,0 +1,49 @@
+site_name: OnixClient - Scripting Documentation
+
+# Repository
+repo_name: Github - OnixClient_Scripts
+repo_url: https://github.com/OnixClient-Scripts/OnixClient_Scripts
+
+
+theme:
+  name: material
+  logo: assets/biglogo.png
+  favicon: images/biglogo.png
+  language: en
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+
+
+
+extra:
+  homepage: https://example.com
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/OnixClient-Scripts/OnixClient_Scripts
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: 简体中文
+      link: /zh/ 
+      lang: zh
+
+
+
+copyright:
+  Copyright &copy; 2024 <a href="https://github.com/OnixClient-Scripts"  target="_blank" rel="noopener">OnixClient</a>
